@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#FF0000" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" stroke-opacity="0" x="29.624984" y="28.624994" width="141.312507" height="131.000001" id="svg_3"/>
+  <path fill="#000000" stroke="#f2eaea" stroke-width="10" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m42.9375,44.187496l47.472046,0l0.777954,71.446018l-47.860687,0.553986l-0.389313,-36.553986" fill-opacity="0" id="svg_19"/>
+  <line fill="none" stroke="#f2eaea" stroke-width="10" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" fill-opacity="0" x1="144.562506" y1="109.249997" x2="158.062506" y2="124.874998" id="svg_20"/>
+  <path fill="#000000" stroke="#f2eaea" stroke-width="10" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m104.375,43.812496l47.472046,0l0.777954,71.446018l-47.860687,0.553986l-0.389313,-36.553986l0,-35.446018z" fill-opacity="0" id="svg_21"/>
+  <text transform="matrix(0.717956, 0, 0, 1, 125.41, 0)" font-weight="bold" fill="#f7f2f2" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" stroke-opacity="0" x="-35.845443" y="148.250004" id="svg_22" font-size="24" font-family="Monospace" text-anchor="middle" xml:space="preserve">Juan Quiroga</text>
+ </g>
+</svg>
